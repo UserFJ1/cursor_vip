@@ -1,6 +1,6 @@
 ### Promotion Guide
 
-> 🌐️ English | [中文](promotion_CN.md)
+> 🌐️ English | [中文](Look___promotion_CN.md)
 
 By promoting cursor-vip, you can automatically get up to an unlimited amount of free usage time, and the other party can also get 15 days of free (self-registration for 7 days), you can refer to the following methods:
 1. After cloning this repository, replace `githubReadme` in the `README` with your DeviceID.
