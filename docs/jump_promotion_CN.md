@@ -1,4 +1,4 @@
-### 推广指南
+### look jump
 
 > 🌐️ 中文 | [English](promotion.md)
 
