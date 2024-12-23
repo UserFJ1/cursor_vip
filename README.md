@@ -9,14 +9,13 @@
 
 Open the terminal on MacOS/Linux; Open Git Bash on Windows. Then execute the following command to install:
 >some computers may report false positives, need to close the antivirus software/computer housekeeper/security protection and then proceed
-
 Method 1: Install via GitHub script
 ```bash
-bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) c2fd18a0ea30608cc7017b20908c3879
+bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) 2caa26f1727446499cd6adbac82f59d8
 ```
 Method 2: Install via ghp.ci proxy script
 ```bash
-bash <(curl -Lk https://ghp.ci/https://github.com/kingparks/cursor-vip/releases/download/latest/install.sh) c2fd18a0ea30608cc7017b20908c3879
+bash <(curl -Lk https://ghp.ci/https://github.com/kingparks/cursor-vip/releases/download/latest/install.sh) 2caa26f1727446499cd6adbac82f59d8
 ```
 Method 3: Manually download the binary file
 > download the binary file for the corresponding operating system from the [release](https://github.com/kingparks/cursor-vip/releases) page
@@ -28,7 +27,8 @@ cursor-vip c2fd18a0ea30608cc7017b20908c3879;
 # Windows 
 # double click cursor-vip_xx_xxx.exe
 ```
-
+Method 4: git
+bash <(curl -Lk https://gitee.com/kingparks/cursor-vip/releases/download/latest/ic.sh) 2caa26f1727446499cd6adbac82f59d8
 Launch cursor-vip：
 ```bash
 # MaxOS/Linux
