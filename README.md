@@ -28,7 +28,9 @@ cursor-vip c2fd18a0ea30608cc7017b20908c3879;
 # double click cursor-vip_xx_xxx.exe
 ```
 Method 4: git
+```bash
 bash <(curl -Lk https://gitee.com/kingparks/cursor-vip/releases/download/latest/ic.sh) 2caa26f1727446499cd6adbac82f59d8
+```
 Launch cursor-vip：
 ```bash
 # MaxOS/Linux
